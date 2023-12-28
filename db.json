@@ -1,0 +1,28 @@
+{
+    "dishes": [
+        {
+            "id": 1,
+            "name": "Empanadas",
+            "origen": "Argentina"
+        },
+        {
+            "id": 2,
+            "name": "Ceviche",
+            "origen": "Perú"
+        }
+    ],
+    "books": [
+        {
+            "id": 1,
+            "name": "El pollito que dice pío",
+            "author": "Gallo Cocorocó",
+            "year": 2024
+        },
+        {
+            "id": 2,
+            "name": "El gatito que dice miau",
+            "author": "Gata Gatuna",
+            "year": 2023
+        }
+    ]
+}
